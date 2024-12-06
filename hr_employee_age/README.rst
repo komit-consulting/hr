@@ -70,6 +70,10 @@ Contributors
 
   - Pedro Evaristo Gonzalez Sanchez <pedro.gonzalez@pesol.es>
 
+- `Komit <https://komit-consulting.com>`__:
+
+  - Vang Nguyen Phu
+
 Maintainers
 -----------
 

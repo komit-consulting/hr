@@ -4,3 +4,5 @@
 - Komsan Somwong \<<komsans@ecosoft.co.th>\>
 - [Pesol](https://www.pesol.es):
   - Pedro Evaristo Gonzalez Sanchez \<<pedro.gonzalez@pesol.es>\>
+- [Komit](https://komit-consulting.com):
+  - Vang Nguyen Phu
